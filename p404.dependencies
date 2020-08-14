@@ -6,12 +6,6 @@
     "remote": "pixel-devices-bitbucket"
   },
   {
-    "repository": "vendor_xiaomi-firmware",
-    "target_path": "vendor/xiaomi-firmware",
-    "branch": "ten",
-    "remote": "pixel-devices-bitbucket"
-  },
-  {
     "repository":"LineageOS/android_hardware_xiaomi",
     "target_path":"hardware/xiaomi",
     "branch":"lineage-17.1",
